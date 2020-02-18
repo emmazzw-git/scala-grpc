@@ -10,6 +10,11 @@ A scala GRPC app
 * grpc knowledge
 
 ### Installing
+compile the app
+
+```
+sbt compile
+```
 
 Run the app
 
