@@ -6,9 +6,8 @@ A scala GRPC app
 
 ### Prerequisites
 
-```
-Give examples
-```
+* scala knowledge
+* grpc knowledge
 
 ### Installing
 
