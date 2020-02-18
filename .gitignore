@@ -1,5 +1,4 @@
 /.idea
 /.DS_Store
-project/target/
-project/.DS_Store
-target/
+*/project/**
+*/target/**
